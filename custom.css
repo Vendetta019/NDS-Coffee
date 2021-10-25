@@ -36,7 +36,7 @@ ul {
     list-style: none;
 }
 #hero {
-    background-image: url(../hero.jpg);
+    background-image: url(..hero.jpg);
     position: relative;
     z-index: 0;
     background-repeat: no-repeat;
@@ -112,7 +112,7 @@ ul {
     display: block;
     text-indent: -9999px;
     width: 50px;
-    background-image: url(../lupa.png);
+    background-image: url(..lupa.png);
     background-position: right center;
     background-repeat: no-repeat;
     border: none;
@@ -143,13 +143,13 @@ ul {
 }
 
 .icono1 {
-    background-image: url(../icono1.png);
+    background-image: url(..icono1.png);
 }
 .icono2 {
-    background-image: url(../icono2.png);
+    background-image: url(..icono2.png);
 }
 .icono3 {
-    background-image: url(../icono3.png);
+    background-image: url(..icono3.png);
 }
 
 #lista-cafe .row {
